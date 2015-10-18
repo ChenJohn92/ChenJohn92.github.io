@@ -8,10 +8,12 @@ category: personal
 tags: []
 imagefeature: cover1.jpg
 comments: true
-mathjax: 
+mathjax: true
 ---
 
 Notepad is a Jekyll theme which is very simple, clean and beautiful. This theme is good for any blog.
+
+
 
 Main Features:
 Zurb Foundation 5 - css framework
@@ -33,7 +35,7 @@ Example - two columns:
 
 <div class="row">
     <div class="small-12 medium-6 columns">
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo blanditiis pariatur, odio amet voluptas fugiat veniam quos ratione unde aperiam, aspernatur, dolores tempore nam. Vitae facere ipsum soluta architecto quisquam doloremque facilis commodi debitis atque, porro nesciunt modi reiciendis natus beatae aperiam cupiditate expedita eum, doloribus, obcaecati excepturi autem! Perferendis quam, deserunt illum ipsa repellendus nesciunt eum qui repellat est possimus natus quod ducimus excepturi fugit, tempore, dolores maiores esse?</p>
+        <p>Lorem ipsum dolor sit amet, consectetur $I_d$ adipisicing elit. Explicabo blanditiis pariatur, odio amet voluptas fugiat veniam quos ratione unde aperiam, aspernatur, dolores tempore nam. Vitae facere ipsum soluta architecto quisquam doloremque facilis commodi debitis atque, porro nesciunt modi reiciendis natus beatae aperiam cupiditate expedita eum, doloribus, obcaecati excepturi autem! Perferendis quam, deserunt illum ipsa repellendus nesciunt eum qui repellat est possimus natus quod ducimus excepturi fugit, tempore, dolores maiores esse?</p>
     </div>
     <div class="small-12 medium-6 columns">
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo blanditiis pariatur, odio amet voluptas fugiat veniam quos ratione unde aperiam, aspernatur, dolores tempore nam. Vitae facere ipsum soluta architecto quisquam doloremque facilis commodi debitis atque, porro nesciunt modi reiciendis natus beatae aperiam cupiditate expedita eum, doloribus, obcaecati excepturi autem! Perferendis quam, deserunt illum ipsa repellendus nesciunt eum qui repellat est possimus natus quod ducimus excepturi fugit, tempore, dolores maiores esse?</p>

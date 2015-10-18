@@ -7,12 +7,16 @@ modified: 2014-07-23
 category: webdevelopment
 tags: [jekyll]
 imagefeature: 
-mathjax: 
+mathjax: true
 chart: 
 comments: true
 featured: true
 ---
 
+
+Here is a test for latex markdown, lol
+
+$a_1$
 Well, I guess it's quite obvious that I really enjoy working with Jekyll — with good reasons — so let me just briefly suggest some of the benefits of using a static site generator in favor of a heavy dynamic, database driven content management system.
 
 - **Speed**: Static HTML pages are small, lightweight and perform blazingly fast. You’ll notice the difference.

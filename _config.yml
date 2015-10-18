@@ -1,31 +1,34 @@
-title:            Notepad
+title:            Chen John New Blog
 description:      "Blogging is fun"
 logo:             logo.png
-disqus_shortname: hmfaysal
+disqus_shortname: Chenjohn92
 share:            true
 dropcap:			true
 # Change url to your domain. Leave localhost server or blank when working locally.
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same 
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
-url:        	  /Notepad
+url:        	  ''
+# url:          '/posts'
+
+BASE_PATH: 
 
 # Owner/author information
 owner:
-  name:           Hossain Mohd Faysal
-  avatar:         hmfaysal.jpg
-  email:          hmfaysal@alum.mit.edu
+  name:           Chen John (Yujun)
+  avatar:         
+  email:          chenjohn@buaa.edu.cn
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Awesome Dude, Awesome Life
+  description:    Life is Awesome
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        hmfaysal
-  facebook:       hmfaysal
-  github:         hmfaysal      
-  instagram:      hmfaysal
+  # twitter:        hmfaysal
+  # facebook:       hmfaysal
+  github:         ChenJohn92
+  # instagram:      hmfaysal
   # For Google Authorship https://plus.google.com/authorship
   google_plus:    https://plus.google.com/u/0/102602916593522619858
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   UA-39365944-7
+# google_analytics:   UA-39365944-7
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
@@ -45,11 +48,11 @@ links:
     url: /about
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Asia/Dhaka
+timezone:    Asia/Shanghai
 future:      true
 highlighter: pygments
 markdown:    kramdown
-paginate:    5
+paginate:    10
 paginate_path: "page:num"
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
@@ -71,8 +74,10 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://hmfaysal.github.io/Notepad/'
-  relativeLinks: 'http://hmfaysal.github.io/Notepad/links.jsonp'
+  # siteurl: '.'
+  # relativeLinks: './links.jsonp'
+  siteurl: 'http://ChenJohn92.github.io/Blogs/'
+  relativeLinks: 'http://ChenJohn92.github.io/Blogs/links.jsonp'
   media: 'images'
   metadata:
     _posts:
